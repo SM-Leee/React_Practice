@@ -2,3 +2,9 @@
   text-align: center;
 }
 
+.message { 
+  background: blueviolet;
+}
+.username{
+  background: greenyellow;
+}
